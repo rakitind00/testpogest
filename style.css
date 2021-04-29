@@ -1,0 +1,102 @@
+.display-7{
+    font-size: 2rem;
+}
+
+.display-75{
+    font-size: 1.3rem;
+}
+
+.display-8{
+    font-size: 1.5rem;
+}
+
+
+
+.display-9{
+    font-size: 1rem;
+}
+
+
+.text-gray {
+    color: #aba8a8;
+}
+
+.text-gray-dark{
+    color: #828282;
+}
+.orange-arrow {
+    color: orange;
+    font-size: 15px;
+}
+
+* {
+    transition: all 0.5s;
+}
+
+.primary-heading {
+    color: #0094de;
+    font-weight: 900;
+}
+
+.f-futuris{
+    font-family: 'FuturisExtra Cyrillic', arial;
+}
+.f-vanta-bold{
+    font-family: 'Vanta Bold', arial;
+    font-family: arial;
+}
+
+.text-justify{
+    text-align: justify;
+}
+
+#info_comunication img{
+    width: 250px;
+}
+
+
+.h-min{
+ height: min-content;
+}
+.w-min{
+    width: min-content;
+}
+
+.w-85{
+    width: 85%;
+}
+
+
+.z-1{
+    z-index: 2;
+}
+
+.z-2{
+    z-index: 2;
+}
+
+.z-100{
+    z-index: 2;
+}
+
+.bg-tr-s{
+    transition: 0.5s;
+    background: #ffffffe8;
+}
+
+
+.clik-me{
+    width: 55px !important;
+    height: 70px !important;
+}
+
+.rounded-image{
+    border-radius: 50%;
+    border: 2px solid #c2c2c2;
+    box-shadow: 0rem 0rem 2rem grey;
+    width: 120px;
+    height: 120px;
+}
+
+
+
