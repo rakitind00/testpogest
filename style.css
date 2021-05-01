@@ -98,5 +98,13 @@
     height: 120px;
 }
 
+#menuSide{
+   overflow: hidden; 
+}
+
+#nav{
+    width: 330px;
+}
+
 
 
