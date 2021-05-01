@@ -100,10 +100,10 @@
 
 #nav{
    overflow: hidden; 
+   overflow: hidden;
+   white-space: nowrap;
 }
 
 #navContent {
     width: 330px;
-    overflow: hidden;
-    white-space: nowrap;
 }
