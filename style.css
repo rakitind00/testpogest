@@ -10,8 +10,6 @@
     font-size: 1.5rem;
 }
 
-
-
 .display-9{
     font-size: 1rem;
 }
@@ -99,9 +97,7 @@
 }
 
 #nav{
-   overflow: hidden; 
    overflow: hidden;
-   white-space: nowrap;
 }
 
 #navContent {
