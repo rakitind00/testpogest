@@ -98,11 +98,11 @@
     height: 120px;
 }
 
-#menuSide{
+#nav{
    overflow: hidden; 
 }
 
-#nav{
+#navContent {
     width: 330px;
 }
 
