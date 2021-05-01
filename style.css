@@ -104,4 +104,6 @@
 
 #navContent {
     width: 330px;
+    overflow: hidden;
+    white-space: nowrap;
 }
