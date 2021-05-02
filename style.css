@@ -100,6 +100,13 @@
    overflow: hidden;
 }
 
+#nav a{
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-decoration: none;
+    color: #3175ab;
+}
+
 #navContent {
     width: 330px;
 }
