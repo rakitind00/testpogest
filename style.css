@@ -120,3 +120,24 @@
 .segoe {
     font-family: Segoe UI;
 }
+
+/* width */
+#nav::-webkit-scrollbar {
+    width: 4px;
+    height: 4px;
+}
+
+/* Track */
+#nav::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Handle */
+#nav::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+/* Handle on hover */
+#nav::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
