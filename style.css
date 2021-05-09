@@ -34,6 +34,7 @@
 .primary-heading {
     color: #0094de;
     font-weight: 900;
+    font-family:'Monsterrat', sans-serif;
 }
 
 .f-futuris{
@@ -109,4 +110,13 @@
 
 #navContent {
     width: 330px;
+}
+
+.monsterrat{
+    font-family:'Monsterrat', sans-serif;
+}
+
+
+.segoe {
+    font-family: Segoe UI;
 }
