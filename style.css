@@ -141,3 +141,7 @@
 #nav::-webkit-scrollbar-thumb:hover {
     background: #555;
 }
+
+#nav::-webkit-scrollbar-button {
+    max-height: 30%;
+}
