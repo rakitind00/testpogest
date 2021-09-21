@@ -3,7 +3,8 @@ $(document).ready(function(){
   var editor = CodeMirror.fromTextArea(code, {
         lineNumbers: true,
         matchBrackets: true,
-        mode: "text/x-csrc"
+        mode: "text/x-csrc",
+        theme: "midnight" // this css is nverted
   });
 });
   
