@@ -53,9 +53,12 @@
 }
 
 #reload_btn.reload_clicked{
- transform: rotate(360deg);
  font-size: 23px;
  backdrop-filter: brightness(0.5);
+}
+
+#reload_btn.reload_clicked i{
+  transform: rotate(360deg);
 }
 
 #back_btn.back_clicked,
