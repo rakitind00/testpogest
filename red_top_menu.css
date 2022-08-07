@@ -62,7 +62,7 @@
 }
 
 #reload_btn.reload_clicked i{
-  transform: rotate(360deg);
+  transform: rotate(360deg) !important;
 }
 
 #back_btn.back_clicked,
