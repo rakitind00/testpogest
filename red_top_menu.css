@@ -52,14 +52,14 @@
   transform: rotate(40deg);
 }
 
-.reload_clicked{
+#reload_btn.reload_clicked{
  transform: rotate(360deg);
  font-size: 23px;
  backdrop-filter: brightness(0.5);
 }
 
-.back_clicked,
-.forward_clicked{
- font-size: 23px;
- backdrop-filter: brightness(0.5);
+#back_btn.back_clicked,
+#forward_btn.forward_clicked{
+ font-size: 23px !important;
+ backdrop-filter: brightness(0.5) !important;
 }
