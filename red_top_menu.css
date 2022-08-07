@@ -45,6 +45,10 @@
   margin-left: 15px;
 }
 
+#reload_btn i{
+  transition: all 0.5s ease-out;
+}
+
 #reload_btn:hover i{
   filter: drop-shadow(2px 4px 6px black);
   filter: blur(0px);
