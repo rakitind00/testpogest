@@ -54,7 +54,6 @@
 
 #reload_btn i{
   transition: all 0.5s ease-out !important;
-  filter: blur(1px) !important;
 }
 
 #reload_btn:hover i{
