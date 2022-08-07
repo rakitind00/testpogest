@@ -47,13 +47,18 @@
 
 #reload_btn i{
   transition: all 0.5s ease-out !important;
+  filter: blur(1px) !important;
 }
 
 #reload_btn:hover i{
+  transform: rotate(40deg) !important;
+}
+
+
+#reload_btn:hover{
   filter: drop-shadow(2px 4px 6px black) !important;
   filter: blur(0px) !important;
   font-size: 25px !important;
-  transform: rotate(40deg) !important;
 }
 
 #reload_btn.reload_clicked{
