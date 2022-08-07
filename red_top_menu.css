@@ -45,11 +45,11 @@
   margin-left: 15px;
 }
 
-#reload_btn i.reload_icon{
+#reload_btn i{
   transition: all 0.5s ease-out !important;
 }
 
-#reload_btn:hover i.reload_icon{
+#reload_btn:hover i{
   filter: drop-shadow(2px 4px 6px black) !important;
   filter: blur(0px) !important;
   font-size: 25px !important;
