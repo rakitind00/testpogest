@@ -45,20 +45,20 @@
   margin-left: 15px;
 }
 
-#reload_btn i{
-  transition: all 0.5s ease-out;
+#reload_btn i.reload_icon{
+  transition: all 0.5s ease-out !important;
 }
 
-#reload_btn:hover i{
-  filter: drop-shadow(2px 4px 6px black);
-  filter: blur(0px);
-  font-size: 25px;
-  transform: rotate(40deg);
+#reload_btn:hover i.reload_icon{
+  filter: drop-shadow(2px 4px 6px black) !important;
+  filter: blur(0px) !important;
+  font-size: 25px !important;
+  transform: rotate(40deg) !important;
 }
 
 #reload_btn.reload_clicked{
- font-size: 23px;
- backdrop-filter: brightness(0.5);
+ font-size: 23px !important;
+ backdrop-filter: brightness(0.5) !important;
 }
 
 #reload_btn.reload_clicked i{
