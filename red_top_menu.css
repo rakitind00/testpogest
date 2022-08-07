@@ -27,12 +27,21 @@
   font-size: 20px;
   -webkit-app-region: none;
   cursor: pointer;
+  filter: drop-shadow(2px 4px 6px black);
+  transition: all 0.5s ease-out;
 }
 
-#back_btn:hover,
-#forward_btn:hover,
+#back_btn:hover{
+ font-size: 25px;
+ margin-left: 5px;
+}
+#forward_btn:hover{
+  font-size: 25px;
+  margin-right: 15px;
+}
+
 #reload_btn:hover{
   font-size: 25px;
-  margin-left: 15px;
-  margin-right: 15px;
+  transform: rotate(-40deg);
+  transform: rotate(40deg);
 }
