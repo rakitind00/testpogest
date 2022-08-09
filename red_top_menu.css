@@ -30,6 +30,8 @@
   transition: all 0.5s ease-out;
   filter: blur(1px);
   backdrop-filter: brightness(1);
+  background: transparent;
+  border: none;
 }
 
 #back_btn:hover{
