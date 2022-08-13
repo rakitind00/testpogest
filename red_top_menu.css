@@ -1,8 +1,8 @@
 
 #head_menu {
-  height: 32px;
+  height: 38%;
   background: #202020;
-  background: linear-gradient(179deg, rgba(253, 29, 29, 1) 20%, rgba(32, 32, 32, 1) 51%);
+  background: linear-gradient(179deg, #fd1c1c 20%, transparent 51%);
   position: absolute;
   top: 0;
   width: 100vw;
