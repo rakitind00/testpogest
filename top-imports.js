@@ -13,7 +13,7 @@
     top_menu_js.setAttribute("crossorigin","anonymous");
 
     top_red_styles.setAttribute("rel", "stylesheet");
-    top_red_styles.setAttribute("href", "https://gitcdn.link/cdn/rakitind00/testpogest/6deaa7b13cca6a584ee423d04dd7210fbb09e5ac/red_top_menu.css");
+    top_red_styles.setAttribute("href", "https://gitcdn.link/cdn/rakitind00/testpogest/d8e63727a69ec51b433282f7a656a30932dd3716/red_top_menu.css");
 
     document.head.appendChild(font_awesome);
     document.head.appendChild(font_awesome_js);
