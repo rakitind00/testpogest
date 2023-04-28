@@ -1,8 +1,8 @@
     const menu = document.createElement("div");
     menu.setAttribute("id", "head_menu");
-    document.getElementById("masthead").appendChild(menu);
-    document.getElementById("masthead").setAttribute("style",  "padding-top: 35px" ) ;
-    document.getElementById("guide-content").setAttribute("style",  "padding-top: 35px" ) ;
+    document.getElementById("masthead-container").appendChild(menu);
+    document.getElementById("masthead-container").setAttribute("style",  "padding-top: 35px" ) ;
+    document.getElementById("primary").setAttribute("style",  "padding-top: 35px" ) ;
 
     const actions_container = document.createElement("div");
     actions_container.setAttribute("id", "actions_container");
