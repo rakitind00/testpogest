@@ -6,7 +6,7 @@
     font_awesome.setAttribute("rel", "stylesheet" );
     font_awesome.setAttribute("href", "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" );
 
-    font_awesome_js.setAttribute("src", "https://gitcdn.link/cdn/rakitind00/testpogest/main/fontawesome.js" );
+    font_awesome_js.setAttribute("src", "https://cdn.jsdelivr.net/gh/rakitind00/testpogest@main/fontawesome.js" );
     font_awesome_js.setAttribute("crossorigin","anonymous");
 
     top_menu_js.setAttribute("src", "https://cdn.jsdelivr.net/gh/rakitind00/testpogest@main/top-menu.js" );
