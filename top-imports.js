@@ -9,7 +9,7 @@
     font_awesome_js.setAttribute("src", "https://gitcdn.link/cdn/rakitind00/testpogest/main/fontawesome.js" );
     font_awesome_js.setAttribute("crossorigin","anonymous");
 
-    top_menu_js.setAttribute("src", "https://gitcdn.link/cdn/rakitind00/testpogest/56d037f4c05a89024785b1a65315d898f3079861/top-menu.js" );
+    top_menu_js.setAttribute("src", "https://cdn.jsdelivr.net/gh/rakitind00/testpogest@main/top-menu.js" );
     top_menu_js.setAttribute("crossorigin","anonymous");
 
     top_red_styles.setAttribute("rel", "stylesheet");
